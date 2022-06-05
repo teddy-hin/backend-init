@@ -1,0 +1,19 @@
+{
+  "name": "backend-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddy-hin/backend-init.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddy-hin/backend-init/issues"
+  },
+  "homepage": "https://github.com/teddy-hin/backend-init#readme"
+}
